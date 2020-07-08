@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="xiaomi:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3677f34b-7fcb-4fe0-b116-15a85b92563e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xiaomi" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYdxlORsMg7LLgph1QuWtk2MsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.171875" />
+    <property name="project.structure.side.proportion" value="0.23867069" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\xiaomi\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.xiaomiServer">
+    <configuration name="DaoTest.testConsumerInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaomi" />
+      <option name="PACKAGE_NAME" value="cn.huangjifan.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.huangjifan.test.DaoTest" />
+      <option name="METHOD_NAME" value="testConsumerInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.testConsumerSelectByExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaomi" />
+      <option name="PACKAGE_NAME" value="cn.huangjifan.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.huangjifan.test.DaoTest" />
+      <option name="METHOD_NAME" value="testConsumerSelectByExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.testConsumerSelectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaomi" />
+      <option name="PACKAGE_NAME" value="cn.huangjifan.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.huangjifan.test.DaoTest" />
+      <option name="METHOD_NAME" value="testConsumerSelectById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DaoTest.testSearchGoods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaomi" />
+      <option name="PACKAGE_NAME" value="cn.huangjifan.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.huangjifan.test.DaoTest" />
+      <option name="METHOD_NAME" value="testSearchGoods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xiaomi" />
+      <option name="PACKAGE_NAME" value="cn.huangjifan.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.huangjifan.test.WebTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xiaomiServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="xiaomi:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/xiaomi_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_xiaomi" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49878" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="xiaomi:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DaoTest.testConsumerInsert" />
+      <item itemvalue="JUnit.DaoTest.testConsumerSelectByExample" />
+      <item itemvalue="JUnit.DaoTest.testConsumerSelectById" />
+      <item itemvalue="JUnit.WebTest.testLogin" />
+      <item itemvalue="JUnit.DaoTest.testSearchGoods" />
+      <item itemvalue="Tomcat Server.xiaomiServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DaoTest.testSearchGoods" />
+        <item itemvalue="JUnit.WebTest.testLogin" />
+        <item itemvalue="JUnit.DaoTest.testConsumerSelectByExample" />
+        <item itemvalue="JUnit.DaoTest.testConsumerSelectById" />
+        <item itemvalue="JUnit.DaoTest.testConsumerInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19806243" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="127" key="#Project_Structure" timestamp="1585105669625">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="486" y="127" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1585105669625" />
+    <state x="386" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585208429163">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="386" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585208429163" />
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1585647142313">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1585647142313" />
+    <state x="0" y="158" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1585192372200">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="158" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585192372200" />
+    <state x="603" y="347" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1585193524111">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="603" y="347" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.834@0.0.1536.834" timestamp="1585193524111" />
+    <state x="723" y="469" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1585193494414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="723" y="469" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.834@0.0.1536.834" timestamp="1585193494414" />
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585119250636">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1585119250636" />
+    <state x="452" y="74" width="646" height="686" key="#xiaomiServer" timestamp="1585207884568">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="452" y="74" width="646" height="686" key="#xiaomiServer/0.0.1536.834@0.0.1536.834" timestamp="1585207884568" />
+    <state x="826" y="166" key="FileChooserDialogImpl" timestamp="1586335590184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="826" y="166" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586335590184" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1586331800221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586331800221" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1586331800220">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586331800220" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1586331800220">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586331800220" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1586331800220">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586331800220" />
+    <state width="642" height="188" key="GridCell.Tab.1.bottom" timestamp="1586331800211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586331800211" />
+    <state width="642" height="188" key="GridCell.Tab.1.center" timestamp="1586331800211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1586331800211" />
+    <state width="642" height="188" key="GridCell.Tab.1.left" timestamp="1586331800211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1586331800211" />
+    <state width="642" height="188" key="GridCell.Tab.1.right" timestamp="1586331800211">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1586331800211" />
+    <state width="642" height="188" key="GridCell.Tab.2.bottom" timestamp="1586331800212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586331800212" />
+    <state width="642" height="188" key="GridCell.Tab.2.center" timestamp="1586331800212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1586331800212" />
+    <state width="642" height="188" key="GridCell.Tab.2.left" timestamp="1586331800212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1586331800212" />
+    <state width="642" height="188" key="GridCell.Tab.2.right" timestamp="1586331800212">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="642" height="188" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1586331800212" />
+    <state x="381" y="234" key="NewModule_or_Project.wizard" timestamp="1586335595216">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="381" y="234" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1586335595216" />
+    <state x="130" y="121" width="914" height="709" key="SettingsEditor" timestamp="1585893359062">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="130" y="121" width="914" height="709" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1585893359062" />
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1586335371077">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="461" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586335371077" />
+    <state x="19" y="242" width="1180" height="567" key="new project wizard" timestamp="1586335572603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="19" y="242" width="1180" height="567" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1586335572603" />
+    <state x="770" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1585223479363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="770" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1585223479363" />
+    <state x="449" y="109" key="spring file set editor" timestamp="1585102864294">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="109" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1585102864294" />
+  </component>
+</project>
